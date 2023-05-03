@@ -18,8 +18,8 @@ import './App.css';
 
 function App() {
   const searchClient = algoliasearch(
-    'latency',
-    '6be0576ff61c053d5f9a3225e2a90f76'
+    '2YYVBQESNN',
+    'c2a5ba8bc1abfcd46ec7f06cd2811ee1'
   );
 
   return (
